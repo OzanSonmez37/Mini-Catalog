@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Akıllı Telefon X1",
+    "category": "Elektronik",
+    "price": 12999.99,
+    "description": "6.5 inç AMOLED ekran, 128GB depolama, 48MP kamera. Güçlü işlemcisi ile her işlemi hızlıca gerçekleştirin.",
+    "emoji": "📱",
+    "color": "0xFF1565C0"
+  },
+  {
+    "id": 2,
+    "name": "Kablosuz Kulaklık Pro",
+    "category": "Elektronik",
+    "price": 2499.99,
+    "description": "Aktif gürültü engelleme, 30 saat pil ömrü. Kristal netliğinde ses kalitesi ile müziğin tadını çıkarın.",
+    "emoji": "🎧",
+    "color": "0xFF6A1B9A"
+  },
+  {
+    "id": 3,
+    "name": "Mekanik Klavye",
+    "category": "Bilgisayar",
+    "price": 1899.99,
+    "description": "RGB aydınlatmalı, taktil tuşlar. Yazılım geliştirme ve oyun için ideal mekanik hissiyat.",
+    "emoji": "⌨️",
+    "color": "0xFF2E7D32"
+  },
+  {
+    "id": 4,
+    "name": "Akıllı Saat S2",
+    "category": "Giyilebilir",
+    "price": 3499.99,
+    "description": "Kalp atış hızı takibi, GPS, 7 gün pil ömrü. Su geçirmez tasarım ile her koşulda yanınızda.",
+    "emoji": "⌚",
+    "color": "0xFFBF360C"
+  },
+  {
+    "id": 5,
+    "name": "Taşınabilir Şarj Aleti",
+    "category": "Aksesuar",
+    "price": 599.99,
+    "description": "20.000 mAh kapasiteli, hızlı şarj destekli güç bankası. İki cihazı aynı anda şarj edin.",
+    "emoji": "🔋",
+    "color": "0xFF00695C"
+  },
+  {
+    "id": 6,
+    "name": "Dizüstü Bilgisayar Lite",
+    "category": "Bilgisayar",
+    "price": 24999.99,
+    "description": "Intel Core i5, 16GB RAM, 512GB SSD. Hafif ve taşınabilir tasarım, tam iş günü pil ömrü.",
+    "emoji": "💻",
+    "color": "0xFF4527A0"
+  }
+]
