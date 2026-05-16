@@ -1,48 +1,20 @@
-# Mini Katalog Uygulaması
+# Mini Katalog
 
-Flutter ile geliştirilmiş basit bir ürün katalog uygulaması. Flutter haftalık eğitim projesi kapsamında hazırlanmıştır.
-
-## Özellikler
-
-- Ana sayfa (karşılama ekranı)
-- Ürün listesi (GridView)
-- Kategori filtreleme (FilterChip + setState)
-- Ürün detay sayfası
-- Favori ekleme (state güncelleme)
-- Sepete ekle butonu (SnackBar geri bildirimi)
-- JSON'dan veri okuma (assets/data/products.json)
-- Navigator ile sayfa geçişleri
-- Route Arguments (ürün nesnesi aktarımı)
+Flutter ile geliştirilmiş basit bir ürün katalog uygulaması. Ana sayfa, kategori filtreli ürün listesi ve favori/sepet özellikli ürün detay sayfalarından oluşmaktadır.
 
 ## Kullanılan Flutter Sürümü
 
-Flutter 3.x (Dart 3.0+)
-
-## Klasör Yapısı
-
-```
-mini_katalog/
-├── lib/
-│   ├── main.dart
-│   ├── models/
-│   │   └── product.dart
-│   └── screens/
-│       ├── home_screen.dart
-│       ├── product_list_screen.dart
-│       └── product_detail_screen.dart
-├── assets/
-│   └── data/
-│       └── products.json
-└── pubspec.yaml
-```
+Flutter 3.41.9 (Channel stable)
 
 ## Çalıştırma Adımları
 
 ```bash
-# 1. Bağımlılıkları yükle
-flutter pub get
+# 1. Repoyu klonla
+git clone https://github.com/USERNAME/mini_katalog.git
+cd mini_katalog
 
-# 2. Emülatörü başlat (Android Studio'dan) veya cihazı bağla
+# 2. Bağımlılıkları yükle
+flutter pub get
 
 # 3. Uygulamayı çalıştır
 flutter run
@@ -52,4 +24,4 @@ flutter run
 
 | Ana Sayfa | Ürün Listesi | Ürün Detayı |
 |-----------|-------------|-------------|
-| Karşılama ekranı | GridView + filtre | Detay + sepet |
+| ![ana](screenshots/home.png) | ![liste](screenshots/list.png) | ![detay](screenshots/detail.png) |
