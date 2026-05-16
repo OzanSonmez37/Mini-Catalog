@@ -24,4 +24,4 @@ flutter run
 
 | Ana Sayfa | Ürün Listesi | Ürün Detayı |
 |-----------|-------------|-------------|
-| (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b45055c5-5c74-4e96-adf8-33bfcdef2005" />) | (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/184b7753-8139-4367-abf7-996eca3fb9f4" />) | (<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/52296709-e961-457c-b483-8e3bb92e324c" />) |
+| <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/b45055c5-5c74-4e96-adf8-33bfcdef2005" /> | <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/184b7753-8139-4367-abf7-996eca3fb9f4" /> | <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/52296709-e961-457c-b483-8e3bb92e324c" /> |
